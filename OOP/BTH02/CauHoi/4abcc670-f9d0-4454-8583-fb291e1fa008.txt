@@ -1,0 +1,6 @@
+Which of the following are fruits?
+Apple
+Car
+Banana
+Dog
+A,C

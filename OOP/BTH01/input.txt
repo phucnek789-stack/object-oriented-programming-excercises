@@ -1,0 +1,4 @@
+{file} la mot tap hop cac thong tin do nguoi 
+dung tao ra tu may vi tinh, {file} duoc dat 
+ten va luu tru trong cac thiet bi luu tru nhu 
+dia cung, dia mem, dia CD,...
